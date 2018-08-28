@@ -1,0 +1,111 @@
+{
+  "Employees" : {
+    "-LBuThhF0DOLMHU4P3ck" : {
+      "password" : "alpha",
+      "userid" : "1001"
+    },
+    "-LBuU5HU5loD5wwaBcUn" : {
+      "password" : "alpha",
+      "userid" : "1003"
+    },
+    "-LC2nxmI1f2hh3iuEQ5U" : {
+      "password" : "alpha",
+      "userid" : "1005"
+    },
+    "-LCOMB7gfkd2552ZRPw7" : {
+      "password" : "alpha",
+      "userid" : "1010"
+    },
+    "-LCOSSj7yHP_ouo6IM6U" : {
+      "password" : "alpha",
+      "userid" : "1004"
+    },
+    "-LCOTJWzlCEq6GJBx0_r" : {
+      "password" : "alpha",
+      "userid" : "1050"
+    },
+    "-LCS3mTATzaOenNsjaHP" : {
+      "password" : "alpha",
+      "userid" : "1201"
+    },
+    "-LCS7EY_Sogspl1t2iKY" : {
+      "password" : "alphap",
+      "userid" : "1009"
+    },
+    "-LCSE_5FFU18nWuqlVZ3" : {
+      "password" : "alpha",
+      "userid" : "1008"
+    },
+    "-LFXE2YZ17_gctdsx5WL" : {
+      "password" : "1536",
+      "userid" : "mtek"
+    },
+    "-LFYdHSavGwz5e2Rbrzn" : {
+      "password" : "1536",
+      "userid" : "mtek"
+    },
+    "-LFYyfyi5n0HC3hwvV1A" : {
+      "password" : "1536",
+      "userid" : "mtek"
+    }
+  },
+  "Employees2" : {
+    "-LCSE_5FFU18nWuqlVZ2" : {
+      "password" : "alpha",
+      "reportsto" : "2001",
+      "username" : "1008"
+    }
+  },
+  "Greivance" : {
+    "-LFuapxckTDausqtMnRH" : {
+      "cause" : "brokedown",
+      "latlng" : "lat/lng: (45.7,67.9)"
+    },
+    "-LFub83-97TZfJ6WGLgY" : {
+      "cause" : "chassis replace",
+      "latlng" : "lat/lng: (45.7,67.9)"
+    },
+    "-LFvwqIO5hXVcXZmD4Zs" : {
+      "cause" : "breakdown",
+      "latlng" : "lat/lng: (9.9312328,76.26730409999999)"
+    },
+    "-LFvxGCxL_wbUQ92o43K" : {
+      "cause" : "spillage",
+      "latlng" : "lat/lng: (9.9312328,76.26730409999999)"
+    }
+  },
+  "LoadingPoint" : [ null, {
+    "Commodity" : "Silk",
+    "Container" : 20,
+    "OriginHouse" : "Korba, Chattisgarh",
+    "PackingCharge" : 12.9
+  }, {
+    "Commodity" : "Raw Sugarcane",
+    "Container" : 40,
+    "OriginHouse" : "Kannur, Kerala",
+    "PackingCharge" : 34.6
+  }, {
+    "Commodity" : "CashewNuts",
+    "Container" : 40,
+    "OriginHouse" : "Shimla",
+    "PackingCharge" : 22.8
+  } ],
+  "Managers" : {
+    "-LC2lw6VV4dNpwLVVovY" : {
+      "password" : "alpha",
+      "userid" : "2001"
+    },
+    "-LC2lzTAV6b58SPQG9Qp" : {
+      "password" : "alpha",
+      "userid" : "2002"
+    },
+    "-LC2m-y28GCmiPBpxS5E" : {
+      "password" : "alpha",
+      "userid" : "2003"
+    },
+    "-LC2m4YhGJLBZGtNmJFq" : {
+      "password" : "managera",
+      "userid" : "2004"
+    }
+  }
+}

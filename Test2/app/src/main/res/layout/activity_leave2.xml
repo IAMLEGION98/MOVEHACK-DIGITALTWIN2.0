@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LeaveActivity2">
+
+    <CalendarView
+        android:id="@+id/calupto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="32dp"
+        android:textSize="30dp"
+        android:layout_marginTop="31dp"
+        android:text="Choose to date" />
+
+    <TextView
+        android:id="@+id/tvupto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="62dp"
+        android:text="dd/mm/yyyy"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvnod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="30dp"
+        android:textSize="20sp"
+        android:layout_marginStart="150dp"
+        android:text=" 0 " />
+
+    <Button
+        android:id="@+id/btconfirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvnod"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="27dp"
+        android:text="Confirm" />
+
+
+</RelativeLayout>

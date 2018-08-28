@@ -1,0 +1,106 @@
+{
+  "Goods" : {
+    "-L8szxMKLuvtq9gXQpIT" : {
+      "id" : "-L8szxMKLuvtq9gXQpIT",
+      "itemname" : "cashew",
+      "itemqty" : "120",
+      "itemtype" : "Food"
+    },
+    "-L8t-1j2H0NB9u-L7dTv" : {
+      "id" : "-L8t-1j2H0NB9u-L7dTv",
+      "itemname" : "jute",
+      "itemqty" : "40",
+      "itemtype" : "Cotton and Textiles"
+    },
+    "-L8tp_shy44k5N87uSYe" : {
+      "id" : "-L8tp_shy44k5N87uSYe",
+      "itemname" : "petrol",
+      "itemqty" : "1200",
+      "itemtype" : "Mineral Fuels and oils"
+    },
+    "-L8vDEup36XmiEIbceHD" : {
+      "id" : "-L8vDEup36XmiEIbceHD",
+      "itemname" : "brufen",
+      "itemqty" : "130",
+      "itemtype" : "Pharmaceuticals"
+    },
+    "-L8vFR0bs2ic_SgN8AMn" : {
+      "id" : "-L8vFR0bs2ic_SgN8AMn",
+      "itemname" : "arius",
+      "itemqty" : "130",
+      "itemtype" : "Pharmaceuticals"
+    },
+    "-L8vGOX2KRciTvNpzIk1" : {
+      "id" : "-L8vGOX2KRciTvNpzIk1",
+      "itemname" : "dates",
+      "itemqty" : "45",
+      "itemtype" : "Food"
+    },
+    "-L8vGyLtCoFXjfDovhIX" : {
+      "id" : "-L8vGyLtCoFXjfDovhIX",
+      "itemname" : "bread",
+      "itemqty" : "28",
+      "itemtype" : "Food"
+    },
+    "-L8vJKdDNkcRfFztnGfO" : {
+      "id" : "-L8vJKdDNkcRfFztnGfO",
+      "itemname" : "heinz",
+      "itemqty" : "500",
+      "itemtype" : "Food"
+    },
+    "-L8vSMeSlT8Xa0y7p75y" : {
+      "id" : "-L8vSMeSlT8Xa0y7p75y",
+      "itemname" : "cashew",
+      "itemqty" : "2100",
+      "itemtype" : "Food"
+    },
+    "-L8yXVxU-Y9ZjuKjBACY" : {
+      "id" : "-L8yXVxU-Y9ZjuKjBACY",
+      "itemname" : "jute",
+      "itemqty" : "356",
+      "itemtype" : "Cotton and Textiles"
+    },
+    "-L94X3Qc47KGC_P4OHlE" : {
+      "id" : "-L94X3Qc47KGC_P4OHlE",
+      "itemname" : "coconut",
+      "itemqty" : "345",
+      "itemtype" : "Food"
+    },
+    "-L9TVZvq21E60r55C_1V" : {
+      "id" : "-L9TVZvq21E60r55C_1V",
+      "itemname" : "nuts",
+      "itemqty" : "150",
+      "itemtype" : "Food"
+    },
+    "-L9TVdThGjEoqfjmVCc_" : {
+      "id" : "-L9TVdThGjEoqfjmVCc_",
+      "itemname" : "nuts",
+      "itemqty" : "150",
+      "itemtype" : "Food"
+    },
+    "-LBBJZ1YO2TU_kQP9xRU" : {
+      "id" : "-LBBJZ1YO2TU_kQP9xRU",
+      "itemname" : "popcorn",
+      "itemqty" : "180",
+      "itemtype" : "Food"
+    },
+    "-LBK8QZcpxCXV9soj0uK" : {
+      "id" : "-LBK8QZcpxCXV9soj0uK",
+      "itemname" : "cadbury",
+      "itemqty" : "167",
+      "itemtype" : "Food"
+    },
+    "-LBLehfR9Us43rWxFolC" : {
+      "id" : "-LBLehfR9Us43rWxFolC",
+      "itemname" : "toblerone",
+      "itemqty" : "320",
+      "itemtype" : "Food"
+    },
+    "-LBPLVwPiWrsyjmNHBdw" : {
+      "id" : "-LBPLVwPiWrsyjmNHBdw",
+      "itemname" : "choco",
+      "itemqty" : "190",
+      "itemtype" : "Food"
+    }
+  }
+}

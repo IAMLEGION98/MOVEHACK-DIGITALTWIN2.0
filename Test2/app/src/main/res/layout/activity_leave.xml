@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LeaveActivity">
+
+    <CalendarView
+        android:id="@+id/calfrom1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="32dp"
+        android:textSize="30dp"
+        android:layout_marginTop="31dp"
+        android:text="Choose from date" />
+
+    <TextView
+        android:id="@+id/tvfrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="49dp"
+        android:layout_marginStart="63dp"
+        android:text="dd/mm/yyyy"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/calfrom1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp"
+        android:text="Next" />
+</RelativeLayout>

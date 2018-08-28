@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WhoActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="95sp"
+        android:layout_marginTop="30sp"
+        android:orientation="vertical">
+
+
+
+    <android.support.v7.widget.CardView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:id="@+id/empid"
+        android:layout_width="160dp"
+        android:layout_height="190dp"
+        android:layout_margin="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+
+                android:padding="10dp"
+                android:src="@drawable/employee" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Tenor"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@color/lightgray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Make new contract/ Details"
+                android:textColor="@android:color/darker_gray" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+
+
+
+    <android.support.v7.widget.CardView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:id="@+id/managerid"
+        android:layout_width="160dp"
+        android:layout_height="190dp"
+        android:layout_margin="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+
+                android:padding="10dp"
+                android:src="@drawable/settings" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Miner"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="10dp"
+                android:background="@color/lightgray" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="mine new contract"
+                android:textColor="@android:color/darker_gray" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</RelativeLayout>
